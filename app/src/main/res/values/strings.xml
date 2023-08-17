@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CanvasDrawing</string>
+    <string name="cancel">cancel</string>
+    <string name="select_pen_type">Select Pen Type</string>
+    <string name="normal">Normal</string>
+    <string name="square">Square</string>
+    <string name="Neon">Neon</string>
+    <string name="steps">Steps\n</string>
+</resources>
